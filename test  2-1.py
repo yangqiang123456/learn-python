@@ -7,7 +7,7 @@
 #12.10
 ############´úÂë#################
 R,T1,T2=input('ÇëÊäÈëR,T1£¬T2')
-beita1=5/2*R*T1
+beita1=5.0/2.0*R*T1
 print 'beita1=5/2*R*T1',beita1
-beita2=5/2*R*T2
+beita2=5.0/2.0*R*T2
 print 'beita2=5/2*R*T2',beita2
